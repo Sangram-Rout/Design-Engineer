@@ -1,7 +1,6 @@
 
-# KUKA youBot Pick & Place
-In this project, I developed a control algorithm and a V-REP simolator for a KUKA youBot to accomplish a pick and place task. 
-
+# Mechanical Design Engineer
+In my appointment as a Mechanical Design Engineer, I worked on several designs of expansion joints. Here some fo the standard products have been highlighted(images taken from multiple sources, have the same principle).
 ![alt text](https://i.ytimg.com/vi/zfYSGZto2Gk/hqdefault.jpg)
 ### Key Concepts and Steps
 Key Steps include:
