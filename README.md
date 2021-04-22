@@ -3,6 +3,7 @@
 In this project, I developed a control algorithm and a V-REP simolator for a KUKA youBot to accomplish a pick and place task. 
 
 ![alt text](https://i.ytimg.com/vi/zfYSGZto2Gk/hqdefault.jpg)
+### Key Concepts and Steps
 Key Steps include:
 1. End-effector trajectory planning
 2. Wheel and joint speed calculation
