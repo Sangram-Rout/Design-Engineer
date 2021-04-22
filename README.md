@@ -1,7 +1,25 @@
 
 # Mechanical Design Engineer
 In my appointment as a Mechanical Design Engineer, I worked on several designs of expansion joints. Here some fo the standard products have been highlighted(images taken from multiple sources, have the same principle).
-![alt text](https://i.ytimg.com/vi/zfYSGZto2Gk/hqdefault.jpg)
+![alt text](https://github.com/Sangram-Rout/Design-Engineer/blob/main/EJ/Externally%20press.png)
+### Key Concepts and Steps
+Key Steps include:
+1. End-effector trajectory planning
+2. Wheel and joint speed calculation
+3. Position Simulation with joint speeds
+4. Visualization on V-REP 
+
+Key Concepts include: 
+1. Straight line trajectory generation with time scaling
+2. Forward kinematics using screw theory and Lie algebra
+3. Omnidirectional robot wheel speed calculation
+4. Velocity Kinematics using Jacobian for calculating robot arm joint speeds
+5. PD+Feedforward for end-effector position control
+6. V-REP Physics Engine
+
+
+
+![alt text](https://github.com/Sangram-Rout/Design-Engineer/blob/main/EJ/Large-gimbal-hinged_bund_2.jpg)
 ### Key Concepts and Steps
 Key Steps include:
 1. End-effector trajectory planning
